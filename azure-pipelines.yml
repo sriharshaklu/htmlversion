@@ -17,6 +17,6 @@ steps:
 - task: publishhtmlreport@1
   inputs:
     htmlType: 'genericHTML'
-    htmlPath: '$(Build.SourcesDirectory)/harsha.html'
+    htmlPath: '$(Build.SourcesDirectory)/harsh.html'
 
 
